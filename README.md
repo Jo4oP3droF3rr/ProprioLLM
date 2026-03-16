@@ -16,5 +16,5 @@ caso queira deletar o LLM C:\Users\Seu_Usuario\.ollama\models
 pip install langchain
 
 pip install -U langchain-ollama <- foi usado no lugar do langchain.community.llms import Ollama, por que o mesmo foi 
-\
+
 substituido por ele
